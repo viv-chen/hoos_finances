@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1196: expected statement.
+    visual-novel-background-12
+                              ^
+
+Ren'Py Version: Ren'Py 7.1.3.1092
+Sun Mar  3 10:31:40 2019
